@@ -9,3 +9,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Claude 本地设置（各机器一份，不入库）
+.claude/settings.local.json
